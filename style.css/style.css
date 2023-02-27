@@ -40,6 +40,16 @@
 }
 
 .col-12, .col-md-6{
-    border: 1px solid black;
+    border: 1px solid white;
     height: 200px;
+}
+
+.name, 
+.email,
+.phone,
+.message{
+    padding: 0;
+    border-bottom: 1px solid black;
+    height: 100%;
+    line-height: 3rem;
 }
