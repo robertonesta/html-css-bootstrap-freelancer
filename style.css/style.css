@@ -1,0 +1,31 @@
+:root{
+    --bs-header: #2c3e50;
+    --bs-lightblue: #3a546d;
+    --bs-lighterblue: #1abc9c;
+}
+
+
+#app_header, #app_footer{
+    height: 100px;
+    background-color: var(--bs-header);
+    border: 1px dashed black;
+}
+
+.jumbo,
+.portfolio,
+.about,
+.contact_me,
+.socials{
+    height: 300px;
+    border: 1px dashed black;
+}
+
+.jumbo,
+.about{
+    background-color: var(--bs-lighterblue);
+}
+
+.socials{
+    background-color: var(--bs-lightblue);
+}
+
