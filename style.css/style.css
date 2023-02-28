@@ -13,11 +13,14 @@
 .portfolio,
 .about,
 .contact_me,
-.socials{
-    max-height: 100%;
+.socials,
+#app_footer{
+    height: 100%;
     border: 1px dashed black;
 }
-
+.socials i{
+    border: white;
+}
 .jumbo,
 .about,
 .about button{
