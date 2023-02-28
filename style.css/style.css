@@ -6,9 +6,7 @@
 
 
 #app_header, #app_footer{
-    height: 100px;
     background-color: var(--bs-header);
-    border: 1px dashed black;
 }
 
 .jumbo,
