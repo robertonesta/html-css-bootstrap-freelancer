@@ -15,9 +15,9 @@
 .contact_me,
 .socials,
 #app_footer{
-    height: 100%;
-    border: 1px dashed black;
+    border: dashed transparent;
 }
+
 .jumbo,
 .about,
 .about button,
