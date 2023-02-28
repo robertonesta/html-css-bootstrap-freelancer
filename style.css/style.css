@@ -47,3 +47,9 @@
     height: 100%;
     line-height: 3rem;
 }
+
+.stick{
+    background-color: var(--bs-header);
+    width: 200px;
+    height: 3px;
+}
