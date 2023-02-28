@@ -11,13 +11,6 @@
 
 .jumbo,
 .about,
-.socials,
-#app_footer{
-    border: dashed transparent;
-}
-
-.jumbo,
-.about,
 .about button,
 .contact_me button{
     background-color: var(--bs-lighterblue);
@@ -53,5 +46,10 @@
 .contact_me .fa-star,
 .portfolio .fa-star{
     color: var(--bs-header);
+}
+
+.socials .border{
+    line-height: 3rem;
+    width: 3rem;
 }
 
