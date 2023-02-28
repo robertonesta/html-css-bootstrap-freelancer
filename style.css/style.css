@@ -20,11 +20,13 @@
 }
 .jumbo,
 .about,
-.about button{
+.about button,
+.contact_me button{
     background-color: var(--bs-lighterblue);
 }
 
-.about button{
+.about button,
+.contact_me button{
     border-color: white;
 }
 
