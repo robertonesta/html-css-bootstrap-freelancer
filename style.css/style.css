@@ -44,16 +44,6 @@
     height: 100%;
 }
 
-.name, 
-.email,
-.phone,
-.message{
-    padding: 0;
-    border-bottom: 1px solid black;
-    height: 100%;
-    line-height: 3rem;
-}
-
 .stick{
     background-color: var(--bs-header);
     width: 200px;
