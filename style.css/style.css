@@ -27,8 +27,8 @@
     background-color: var(--bs-lightblue);
 }
 
-.mw-80{
-    max-width: 80%;
+.mw-60{
+    max-width: 60%;
     margin: auto;
 }
 
